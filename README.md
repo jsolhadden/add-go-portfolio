@@ -19,7 +19,7 @@ A personal iOS app I designed and built to solve a real household pain point: ma
 *[One line on the product decision behind this screen]*
 
 ### Meal Planner
-![Meal Planning Tab](meal-planning-tab.jpg)
+![Meal Planning Tab](meal-planning-tab.png)
 *[One line on the product decision behind this screen]*
 
 ---
