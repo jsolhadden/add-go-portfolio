@@ -1,4 +1,4 @@
-# Gliso — Grocery List App
+# Add&Go — Grocery List App
 
 A personal iOS app I designed and built to solve a real household pain point: making and using a grocery list
 
@@ -10,7 +10,7 @@ A personal iOS app I designed and built to solve a real household pain point: ma
 All the grocery list apps I've tried are buggy, too basic, or too complicated.  I wanted something that would get me through the hassle of making and using a grocery list as fast as possible, without the fluff.
 
 ## The Solution
-Gliso is a grocery list app that is laser focused on helping you build and use your grocery list in the fastest way possible.  It tries to speed up the list creation process and the in-store list crossing-off process.
+Add&Go is a grocery list app that is laser focused on helping you build and use your grocery list in the fastest way possible.  It tries to speed up the list creation process and the in-store list crossing-off process.
 
 ## Screenshots
 
