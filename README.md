@@ -20,7 +20,9 @@ This is the core List tab where users make and use their list.  Adding items and
 
 ### Meal Planner
 ![Meal Planning Tab](meal-planning-tab.PNG)
+
 This is the meal planning tab that supports list making.  It helps you remember the meals you planned for the week so you can list their ingredients.
+
 ---
 
 ## Product Decisions Worth Noting
